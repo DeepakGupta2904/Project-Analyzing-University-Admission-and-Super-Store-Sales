@@ -2,7 +2,7 @@
 
 I am done this project as a Data Scientist Intern at Intellipaat Software Solutions Pvt. Ltd.
 
-Project: Analyzing University Admissions
+1. Project: Analyzing University Admissions
 
 Objective- Data Transformations
 
@@ -10,7 +10,7 @@ Use Case -Design a dashboard to analyze the trend of admissions into state unive
 
 Source -USA StateUniversity Admissions
 
-Project: Analyzing Super Store Sales
+2. Project: Analyzing Super Store Sales
 
 Use Case -Top Down and Bottoms Up Analysis to identify Shipping Costs Leakages
 
